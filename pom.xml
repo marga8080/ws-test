@@ -15,7 +15,7 @@
 		<mongodb-plus.version>1.0.0.RELEASE</mongodb-plus.version>
 		<guava.version>27.0.1-jre</guava.version>
 		<commons-lang.version>2.6</commons-lang.version>
-		<junit.version>4.12</junit.version>
+		<junit.version>4.13.1</junit.version>
 		<cxf.version>3.3.1</cxf.version>
 		<xstream.version>1.4.11.1</xstream.version>
 	</properties>
