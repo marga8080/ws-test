@@ -17,7 +17,7 @@
 		<commons-lang.version>2.6</commons-lang.version>
 		<junit.version>4.12</junit.version>
 		<cxf.version>3.3.1</cxf.version>
-		<xstream.version>1.4.11.1</xstream.version>
+		<xstream.version>1.4.13-java7</xstream.version>
 	</properties>
 
 	<dependencies>
